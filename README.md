@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">Self taught full stack programmer with a keen interest in web/app development and computational biology💻🧬</p>
+<p align="left">Self taught full stack programmer with a keen interest in web/app development and computational biology💻🧬</p><br/></br>
+<a href="https://mohitya.dev"><img src="https://user-images.githubusercontent.com/48997634/171174075-91c72b74-22db-496c-9f8d-911b97c6ea16.png" width="100%"/></a>
 
 ###
 
@@ -10,8 +11,7 @@
 
 ###
 
-<p align="left">💊 Pharmacist by day, Freelance hacker at night<br>📚 I'm currently learning how AI works<br>🎯 Goals: To build awesome products and also participate in drug design<br>🎲 Fun fact: I use Neovim btw ;)</p><br/><br/>
-<a href="https://mohitya.dev"><img src="https://user-images.githubusercontent.com/48997634/171174075-91c72b74-22db-496c-9f8d-911b97c6ea16.png" width="100%"/></a>
+<p align="left">💊 Pharmacist by day, Freelance hacker at night<br>📚 I'm currently learning how AI works<br>🎯 Goals: To build awesome products and also participate in drug design<br>🎲 Fun fact: I use Neovim btw ;)</p>
 
 ###
 
