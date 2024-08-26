@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Self taught full stack programmer with a keen interest in computational biology</p>
+<p align="left">Self taught full stack programmer with a keen interest in web/app development and computational biology💻🧬</p>
 
 ###
 
@@ -83,42 +83,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/matteratomic/matteratomic/output/snake.svg" alt="Snake animation" />
 
 ###
 
