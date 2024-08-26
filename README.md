@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Self taught full stack programmer with a keen interest in web/app development and computational biology💻🧬</p><br/>
+<p align="left">Self taught full stack programmer with a keen interest in web/app development and computational biology💻🧬</p>
 <a href="https://mohitya.dev"><img src="https://user-images.githubusercontent.com/48997634/171174075-91c72b74-22db-496c-9f8d-911b97c6ea16.png" width="100%"/></a>
 
 ###
